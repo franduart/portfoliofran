@@ -1,0 +1,18 @@
+@import url(./global.css);
+
+.about{
+    padding: 32px;
+
+}
+
+.about p{
+    font-size: 16px;
+    line-height: 1.6;
+    font-weight: 300;
+
+    margin-top: 12px;
+}
+.subtitle{
+    font-size: 28px;
+    font-weight: 700;
+}

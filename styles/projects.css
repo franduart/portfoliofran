@@ -1,0 +1,6 @@
+@import url(./global.css);
+
+.projects{
+    padding: 32px 40px;
+    grid-column: 1 / 3;
+  }
